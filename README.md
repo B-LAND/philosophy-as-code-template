@@ -136,7 +136,7 @@ How a martial artist's philosophy became an AI design principle.
 
 武術家の哲学がAI時代の設計原理になるまでの原体験。
 
-- [Origin Article / 原点記事 (日本語)](docs/origin-article-ja.md) / [note](https://note.com/b_land_order/n/n4ae68e1ae58a)
+- [English](docs/origin-article-en.md) / [Japanese / 日本語](docs/origin-article-ja.md) / [note](https://note.com/b_land_order/n/n4ae68e1ae58a)
 
 ### Whitepaper / ホワイトペーパー
 
